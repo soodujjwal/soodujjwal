@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Ujjwal Sood,
 
 I'm a [your role, e.g., software developer, full-stack engineer, data scientist] who loves building things with code. I'm passionate about clean architecture, open source, and always learning something new.
 

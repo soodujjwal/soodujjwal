@@ -23,9 +23,9 @@ I'm a [your role, e.g., software developer, full-stack engineer, data scientist]
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagrover111&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soodujjwal&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagrover111&layout=compact&theme=github_dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soodujjwal&layout=compact&theme=github_dark&hide_title=true)
 
 </div>
 

@@ -27,7 +27,7 @@ I'm a [your role, e.g., software developer, full-stack engineer, data scientist]
 </p>
 
 ## 📫 Let's connect
-- [LinkedIn](www.linkedin.com/in/ujjwal-sood-4b608022b)
+- [LinkedIn](https://www.linkedin.com/in/ujjwal-sood-4b608022b/)
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House

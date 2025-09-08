@@ -19,6 +19,16 @@ I'm a [your role, e.g., software developer, full-stack engineer, data scientist]
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagrover111&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagrover111&layout=compact&theme=github_dark&hide_title=true)
+
+</div>
+
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/ujjwal-sood-4b608022b/)
 ---
